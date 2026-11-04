@@ -2,7 +2,7 @@
 
 Ett övningsexempel i hållbar webb. Webbplatsen för det påhittade Kattcaféet Morrhår ser trevlig ut, men den är byggd som om en AI fått en brief och lagt till allt den kunde komma på: stora bilder, många typsnitt, bibliotek som knappt används och färger som är svåra att läsa.
 
-Din uppgift är att göra det en designer gör: **mäta**, **ändra det du själv kan ändra** och **beställa resten** av en utvecklare eller ett AI-verktyg. Instruktionerna, tabellerna och ett verktyg som skapar beställningen finns i [`uppgift.html`](uppgift.html).
+Din uppgift är att göra det en designer gör: **mäta**, **ändra det du själv kan ändra** och **beställa resten** av en utvecklare eller ett AI-verktyg. 
 
 ## Det här får du ändra själv
 
