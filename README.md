@@ -16,7 +16,7 @@ Allt annat i koden beställer du. Ändra inte kod du inte förstår.
 1. Forka repot till ditt eget GitHub-konto.
 2. Klona din kopia och öppna mappen i VS Code.
 3. Öppna `index.html` i webbläsaren, till exempel med Live Server.
-4. Öppna `uppgift.html` och följ stegen.
+
 
 Inget behöver installeras. Biblioteken ligger redan i mapparna `js`, `css` och `webfonts`, så sidan fungerar som den är. `package.json` visar vilka paket sidan är beroende av.
 
@@ -30,7 +30,7 @@ Inget behöver installeras. Biblioteken ligger redan i mapparna `js`, `css` och 
 | `fonts/` | Typsnittsfiler |
 | `webfonts/` | Ikontypsnitt från Font Awesome |
 | `bilder/` | Bilder på kaféet och katterna |
-| `uppgift.html` | Övningen: mät, åtgärda och redovisa |
+
 
 ## Publicera
 
